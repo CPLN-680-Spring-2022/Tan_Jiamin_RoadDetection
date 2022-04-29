@@ -12,7 +12,7 @@ Data used for this project come from the [SpaceNet 3 Challenge](https://spacenet
 `Tan_RoadDetection_report.pdf` is the final report for this project.
      
           
-`notebooks` contains all the Jupyter notebooks used for processing the data and for training and getting predictions of the neural networks. All the models can be found in notebooks in corresponded names.
+`notebooks` contains all the Jupyter notebooks used for processing the data and for training and getting predictions of the neural networks. All the models and full prediction results on the test set can be found in notebooks in corresponded names.  
      
           
 `modules` contains all functions used for data processing. The uses of each function are documented on top of each `.py` file.
