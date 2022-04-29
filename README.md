@@ -1,6 +1,7 @@
 # Retrieving Roads from Remote Sensing Imagery
+*Capstone Project of CPLN 680, Spring 2022, University of Pennsylvania*
 Jiamin Tan     
-Capstone Project of CPLN 680, Spring 2022, University of Pennsylvania     
+     
 
 ![](misc/Figure5.png)
 
